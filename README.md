@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - 🤝 I’m looking to collaborate on Solana
 - 📫 Reach me x.com @taxmansol
-- 📧 TaxMan.sol
+- 🌐 TaxMan.sol
 
 <!---
 taxmansol/taxmansol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
