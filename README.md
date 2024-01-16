@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taxmansol
+- 👋🏼 Hi, I’m @taxmansol
 - 👀 I’m interested in tech, data and AI
 - 🌱 I’m currently learning Rust
 - 🤝 I’m looking to collaborate on Solana
