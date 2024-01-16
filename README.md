@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taxmansol
-- 👀 I’m interested in tech
+- 👀 I’m interested in tech, data and AI
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Solana
 - 📫 How to reach me x.com @taxmansol
